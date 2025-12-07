@@ -210,3 +210,6 @@ __marimo__/
 # Metapackage synced files (copied from root)
 metapackage/README.md
 metapackage/LICENSE
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
